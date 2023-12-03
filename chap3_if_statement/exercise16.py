@@ -3,3 +3,5 @@ threshold = 80
 
 if num > threshold:
     print("Pass!")
+else:
+    print("No Pass!")
